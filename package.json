@@ -1,0 +1,12 @@
+{
+  "name": "node-api",
+  "main": "server.js",
+  "dependencies": {
+    "aws-sdk": "^2.2.47",
+    "body-parser": "~1.0.1",
+    "crypto-js": "^3.1.6",
+    "express": "~4.0.0",
+    "request": "^2.69.0",
+    "mysql": "^2.12.0"
+  }
+}
